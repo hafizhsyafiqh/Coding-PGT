@@ -1,0 +1,3 @@
+Sistem operasi merupakan perangkat lunak yang paling penting untuk menjalankan/mengoperasikan sebuah komputer, fungsinya adalah mengelola memori komputer dan proses-proses yang berjalan di komputer, serta semua perangkat lunak dan perangkat keras, dengan begitu, kita dapat berinteraksi dengan komputer.
+
+Github adalah sebuah platform atau layanan web host yang memungkinkan tim developer untuk bekerja bersama secara online, melalui Github, developer tidak hanya bisa menyimpan dan mengelola kode, tapi juga dapat mengajak timnya mengecek kode di waktu dan satu tempat yang sama, manfaat yang saya daptkan dari Github adalah, mempermudah menejemen projek, mencegah perubahan kode yang justru dapat merusak kode asli, serta dapat digunakan sebagai portofolio.
